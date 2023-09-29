@@ -1,0 +1,8 @@
+"placa":"XXX-0000"
+"cor":"amarelo"
+"condicaoEstrutural":"bom"
+"Deformações": ["amassado_leve_porta_direita","rachadura_para_brisa"]
+"ExcessoDeCarga":"False"
+"Condiçãopneus": ["bom","bom","meia-vida","meia-vida"]
+"posicionamentoCelula":"centralizado"
+"tipoCarro":"bitrem"
